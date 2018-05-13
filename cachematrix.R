@@ -1,8 +1,5 @@
 ## Submitted by Aline Teresa L. Mendoza 05/13/2018
-## Put comments here that give an overall description of what your
-## functions do a special "matrix" object that can cache its inverse.
-
-## Write a short comment describing this function
+## This function takes in a "matrix" object that can cache its inverse.
 
 makeCacheMatrix <- function(x = matrix()) {
     inv <- NULL
